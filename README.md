@@ -13,9 +13,7 @@
 ## Usage
 
 1. **Clone the Repository**:
-   ```bash
-  git clone https://github.com/Kingsha777/PRODIGY_CS_3/blob/main/passcheck.py
-
+   git clone https://github.com/Kingsha777/PRODIGY_CS_3.git
 Run the Script:
 python pass_checker.py
 Enter a Password:
