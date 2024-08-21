@@ -11,14 +11,6 @@
 - **Complexity Rating**: Provides a rating of the password's complexity (Weak, Moderate, Strong).
 
 ## Usage
-
 1. **Clone the Repository**:
-  ```bash
-git clone https://github.com/Kingsha777/PRODIGY_CS_3.git
-
-Run the Script:
-python pass_checker.py
-Enter a Password:
-
-The script will prompt you to enter a password.
-The password's complexity will be evaluated and displayed as Weak, Moderate, or Strong.
+   ```bash
+   https://github.com/Kingsha777/PRODIGY_CS_3.git    
