@@ -16,8 +16,8 @@
    https://github.com/Kingsha777/PRODIGY_CS_3.git
 ## 2.Navigate to the Directory:
 cd PRODIGY_CS_3.git
-##3.Run the Script:
+## 3.Run the Script:
 python3 passcheck.py
-##4.Enter a Password:
+## 4.Enter a Password:
 The script will prompt you to enter a password.
 The password's complexity will be evaluated and displayed as Weak, Moderate, or Strong.
