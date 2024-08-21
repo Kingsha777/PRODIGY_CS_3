@@ -14,7 +14,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kingsha777/PRODIGY_CS_3/passcheck.py
+  git clone https://github.com/Kingsha777/PRODIGY_CS_3/blob/main/passcheck.py
 
 Run the Script:
 python pass_checker.py
