@@ -12,9 +12,9 @@
 
 ## Usage
 1. **Clone the Repository**:
-     https://github.com/Kingsha777/Pass-Check.git
    ```bash
-
+     https://github.com/Kingsha777/Pass-Check.git
+```
 ## 2.Navigate to the Directory:
 cd Pass-Check.git
 ## 3.Run the Script:
