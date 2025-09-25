@@ -12,10 +12,11 @@
 
 ## Usage
 1. **Clone the Repository**:
+     https://github.com/Kingsha777/Pass-Check.git
    ```bash
-  https://github.com/Kingsha777/Pass-Check.git
+
 ## 2.Navigate to the Directory:
-cd PRODIGY_CS_3.git
+cd Pass-Check.git
 ## 3.Run the Script:
 python3 passcheck.py
 ## 4.Enter a Password:
